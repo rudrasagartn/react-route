@@ -1,9 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Start with node_modules havn't been installed
+## Start with installing  node_modules
 
-npm install
+### `npm install`
 
+## Run the application
 ### `npm start`
 
 Runs the app in the development mode.<br>
